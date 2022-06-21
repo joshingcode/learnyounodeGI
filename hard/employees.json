@@ -1,0 +1,73 @@
+{
+    "employees":{
+        "employee":[
+            {
+            "firstName": "john",
+            "lastName": "smith",
+            "id": "001" ,
+            "salary":"55000",
+            "department":"sales"
+        },   
+        
+            { "firstName": "jane",
+            "lastName": "doe",
+            "id": "002" ,
+            "salary":"65000",
+            "department":"marketing"
+         },
+     
+            {"firstName": "josh",
+            "lastName": "sease",
+            "id": "003" ,
+            "salary":"65000",
+            "department":"marketing"
+        },
+        {"firstName": "justin",
+            "lastName": "doe",
+            "id": "004" ,
+            "salary":"65000",
+            "department":"marketing"
+        },
+        {"firstName": "jodi",
+            "lastName": "pl",
+            "id": "005" ,
+            "salary":"65000",
+            "department":"logistics"
+        },
+        {"firstName": "dante",
+            "lastName": "jackson",
+            "id": "006" ,
+            "salary":"65000",
+            "department":"logistics"
+        },
+        {"firstName": "beyonce",
+            "lastName": "knowles",
+            "id": "007" ,
+            "salary":"65000",
+            "department":"entertainment"
+        },    
+         {"firstName": "benji",
+            "lastName": "frank",
+            "id": "008" ,
+            "salary":"65000",
+            "department":"catering"
+        } ,
+          {"firstName": "victor",
+            "lastName": "love",
+            "id": "009" ,
+            "salary":"75000",
+            "department":"sales"
+        } ,
+            {"firstName": "tom",
+            "lastName": "jerry",
+            "id": "010" ,
+            "salary":"60000",
+            "department":"marketing"
+        }
+
+        ]
+    }
+}
+
+
+
